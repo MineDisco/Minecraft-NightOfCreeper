@@ -1,0 +1,5 @@
+name: NightOfCreeper
+version: 1.0.0
+main: nightofcreeper.NightOfCreeper
+author: Oodi
+api-version: 1.18
